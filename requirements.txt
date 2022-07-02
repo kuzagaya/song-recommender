@@ -1,0 +1,7 @@
+ibm_cloud_sdk_core==3.15.3
+ibm_watson==5.2.0
+pandas==1.2.4
+Pillow==9.2.0
+plotly==5.1.0
+requests==2.28.1
+streamlit==1.7.0
